@@ -3,6 +3,7 @@
 ![alt text](https://github.com/anagonm/react-todo-reduxtk-mui-router-jest/blob/main/public/img1.png?raw=true)
 ![alt text](https://github.com/anagonm/react-todo-reduxtk-mui-router-jest/blob/main/public/img2.png?raw=true)
 ![alt text](https://github.com/anagonm/react-todo-reduxtk-mui-router-jest/blob/main/public/img3.png?raw=true)
+![alt text](https://github.com/anagonm/react-todo-reduxtk-mui-router-jest/blob/main/public/img4.png?raw=true)
 
 This skills test is designed to allow you to showcase your development abilities to us. The test is administered through an online screen sharing session via zoom and will be recorded. 
 
